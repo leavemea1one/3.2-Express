@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "img": "https://clck.ru/YWbnM",
+    "name": "Блок для йоги",
+    "price": 599
+  },
+  {
+      "id": 2,
+      "img": "https://clck.ru/YWc8Q",
+      "name": "Мяч гимнастический",
+      "price": 849
+  },
+  {
+      "id": 3,
+      "img": "https://clck.ru/YWcDF",
+      "name": "Гантель неопреновая",
+      "price": 1699
+  },
+  {
+      "id": 4,
+      "img": "https://clck.ru/YWcNE",
+      "name": "Мяч массажный",
+      "price": 145
+  },
+  {
+      "id": 5,
+      "img": "https://clck.ru/YWcQ8",
+      "name": "Коврик для йоги и фитнеса",
+      "price": 1855
+  },
+  {
+      "id": 6,
+      "img": "https://clck.ru/YWcSi",
+      "name": "Ролик для пилатеса и фитнеса",
+      "price": 1050
+  },
+  {
+      "id": 7,
+      "img": "https://clck.ru/YWcUc",
+      "name": "Амортизатор ленточный",
+      "price": 1540
+  },
+  {
+      "id": 8,
+      "img": "https://clck.ru/YWcWn",
+      "name": "Балансировочная платформа",
+      "price": 9800
+  },
+  {
+      "id": 9,
+      "img": "https://clck.ru/YWcYY",
+      "name": "Полусфера масажная",
+      "price": 696
+  }
+]
